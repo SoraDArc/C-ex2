@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<StudentBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Owner>
+    <Name>Ся Дмитрий Цзичэнович</Name>
+    <Department>Иниститут математики и информартики</Department>
+    <Faculty>ИМФКН</Faculty>
+    <Specialization>МОАИС</Specialization>
+    <StudentBookNumber>541119</StudentBookNumber>
+  </Owner>
+  <EduTests>
+    <EduTest>
+      <Name>Бур яз</Name>
+      <Score>зачтено</Score>
+      <Date>118.12.226</Date>
+      <Teacher>
+        <Name>рак с горы</Name>
+      </Teacher>
+    </EduTest>
+    <EduTest>
+      <Name>Мат. Анализ</Name>
+      <Score>зачтено</Score>
+      <Date>20.12.21</Date>
+      <Teacher>
+        <Name>Телешева Л.В.</Name>
+      </Teacher>
+    </EduTest>
+    <EduTest>
+      <Name>Программирование</Name>
+      <Score>зачтено</Score>
+      <Date>22.12.21</Date>
+      <Teacher>
+        <Name>Бадмаева Э.С.</Name>
+      </Teacher>
+    </EduTest>
+    <EduTest>
+      <Name>Физ-ра</Name>
+      <Score>зачтено</Score>
+      <Date>23.12.21</Date>
+      <Teacher>
+        <Name>Доржиева Л.Н.</Name>
+      </Teacher>
+    </EduTest>
+    <EduTest>
+      <Name>Ан. геометрия</Name>
+      <Score>зачтено</Score>
+      <Date>24.12.21</Date>
+      <Teacher>
+        <Name>Антонова Л.В.</Name>
+      </Teacher>
+    </EduTest>
+    <EduTest>
+      <Name>Геометрия</Name>
+      <Score>зачтено</Score>
+      <Date>21.21.2021</Date>
+      <Teacher>
+        <Name>Антонова Л.В.</Name>
+      </Teacher>
+    </EduTest>
+  </EduTests>
+  <Exams>
+    <Exam>
+      <Name>Ан. геометрия</Name>
+      <Score>Отлично</Score>
+      <Date>11.01.22</Date>
+      <Teacher>
+        <Name>Антонова Л.В.</Name>
+      </Teacher>
+    </Exam>
+    <Exam>
+      <Name>Мат. Анализ</Name>
+      <Score>Отлично</Score>
+      <Date>14.01.22</Date>
+      <Teacher>
+        <Name>Телешева Л.В.</Name>
+      </Teacher>
+    </Exam>
+    <Exam>
+      <Name>Алгебра</Name>
+      <Score>Отлично</Score>
+      <Date>17.01.22</Date>
+      <Teacher>
+        <Name>Мордовской К.С.</Name>
+      </Teacher>
+    </Exam>
+    <Exam>
+      <Name>История</Name>
+      <Score>Отлично</Score>
+      <Date>20.01.22</Date>
+      <Teacher>
+        <Name>Шагдурова К.Т.</Name>
+      </Teacher>
+    </Exam>
+  </Exams>
+  <CourseWorks />
+  <DimplomWork />
+</StudentBook>
